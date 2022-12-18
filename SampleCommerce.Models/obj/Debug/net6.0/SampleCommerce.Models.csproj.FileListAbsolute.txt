@@ -1,0 +1,24 @@
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\bin\Debug\net6.0\ref\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\ref\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.csproj.AssemblyReference.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.AssemblyInfoInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.AssemblyInfo.cs
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.csproj.CoreCompileInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.deps.json
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\bin\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\refint\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Models\obj\Debug\net6.0\ref\SampleCommerce.Models.dll

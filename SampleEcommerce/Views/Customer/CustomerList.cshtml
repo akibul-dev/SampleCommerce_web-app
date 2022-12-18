@@ -1,0 +1,17 @@
+﻿@model List<CustomerDetailsVM>
+
+
+@foreach (CustomerDetailsVM customer in Model)
+{
+    <div class="card">
+        <div class="card-header">
+            @customer.Name
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Customer Details:</h5>
+            <p>Name: @customer.Name </p>
+            <p>Phone: @customer.PhoneNo </p>
+            <p>Address: @customer.Address </p>
+        </div>
+    </div>
+}

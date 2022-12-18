@@ -1,0 +1,88 @@
+﻿
+@model ProductCreateVM
+
+<h4>Product Create</h4>
+
+<form method="post">
+ <div asp-validation-summary="ModelOnly" ></div>
+
+ <div class="form-group">
+    <label for="CategoryId">Category</label>
+    <select type="text" class="form-control" asp-items="@Model.Categories" id="CategoryId" name="CategoryId">
+        <option value="">Select Category...</option>
+    </select>
+     
+  </div>
+
+  <div class="form-group">
+    <label asp-for="SubCategoryId">Sub Category</label>
+    <select type="text" class="form-control" asp-for="SubCategoryId" >
+        <option value="">Select Sub-Category...</option>
+    </select>
+     <span asp-validation-for="SubCategoryId" class="text-danger"></span>
+  </div>
+
+
+  <div class="form-group">
+    <label asp-for="Name">Name</label>
+    <input type="text" class="form-control" asp-for="Name">
+     <span asp-validation-for="Name" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+     <label asp-for="Code">Code</label>
+    <input type="text" class="form-control" asp-for="Code">
+     <span asp-validation-for="Code" class="text-danger"></span>
+  </div>
+  <div class="form-group">
+   <label asp-for="Price">Price</label>
+    <input type="text" class="form-control" asp-for="Price">
+     <span asp-validation-for="Price" class="text-danger"></span>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+
+@section scripts{
+    
+
+    <script type="text/javascript">
+
+
+
+        $('#CategoryId').change(function () {
+
+            var defaultOption = '<option value="">Select Sub Category...</option>';
+
+            var subCatDD = $('#SubCategoryId');
+            subCatDD.empty();
+            subCatDD.append(defaultOption);
+
+            var categoryid = +$('#CategoryId').val();
+
+
+
+
+            if (categoryid > 0) {
+                // endpoint --> /api/categories/{categoryId}/subcategories
+
+                var url = "/api/categories/" + categoryid + "/subcategories"
+
+                $.ajax(
+                    {
+                        url: url,
+                        method: "GET",
+                        success: function (response) {
+                            $.each(response, function (key, subCategory) {
+                                var option = '<option value="' + subCategory.id + '">' + subCategory.name + '</option>';
+                                subCatDD.append(option);
+                            });
+                        }
+                    }
+                );
+            }
+
+        });
+
+    </script>
+}

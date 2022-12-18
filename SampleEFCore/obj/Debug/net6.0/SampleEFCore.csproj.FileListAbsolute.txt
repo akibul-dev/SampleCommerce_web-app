@@ -1,0 +1,116 @@
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.exe
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.runtimeconfig.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\ref\SampleEFCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Humanizer.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.CopyComplete
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\ref\SampleEFCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.genruntimeconfig.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.exe
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.deps.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.runtimeconfig.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\SampleEFCore.pdb
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Humanizer.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.AssemblyReference.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.AssemblyInfoInputs.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.AssemblyInfo.cs
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.CoreCompileInputs.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.csproj.CopyComplete
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\refint\SampleEFCore.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.pdb
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\SampleEFCore.genruntimeconfig.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEFCore\obj\Debug\net6.0\ref\SampleEFCore.dll

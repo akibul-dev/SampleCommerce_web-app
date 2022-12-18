@@ -1,0 +1,45 @@
+﻿@model CustomerCreateVM
+
+<h1>Customer Create</h1>
+
+@if (ViewBag.SuccessMessage!=null)
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.SuccessMessage
+    </div>
+}
+
+
+<form method="post">
+
+    <div asp-validation-summary="ModelOnly" ></div>
+
+    <p>
+        Name: <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </p>
+    <p>
+        Code: <input type="text" asp-for="Code" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+
+    </p>
+    <p>
+        Phone: <input type="text" asp-for="Phone" id="phone_id" />
+        <span asp-validation-for="Phone" class="text-danger"></span>
+    </p>
+    <p>
+        Address: <input type="text" asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </p>
+    <input type="submit" value="Submit" />
+</form>
+
+
+@section styles{
+<link href=# />
+}
+
+@section scripts{
+
+}

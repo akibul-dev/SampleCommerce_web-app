@@ -1,0 +1,32 @@
+﻿@model CustomerEditVM
+
+<h1>Customer Edit</h1>
+
+
+<form method="post">
+    <input type="hidden" asp-for="Id" />
+    <p>
+        Name: <input type="text" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </p>
+    <p>
+        Code: <input type="text" asp-for="Code" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+
+    </p>
+    <p>
+        Phone: <input type="text" asp-for="PhoneNo" id="phone_id" />
+        <span asp-validation-for="PhoneNo" class="text-danger"></span>
+    </p>
+    <p>
+        Address: <input type="text" asp-for="Address" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </p
+
+     <p>
+        Delivery Location: <input type="text" asp-for="DeliveryLocation" />
+        <span asp-validation-for="DeliveryLocation" class="text-danger"></span>
+    </p>
+    <input type="submit" value="Submit" />
+</form>

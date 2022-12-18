@@ -1,0 +1,34 @@
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.runtimeconfig.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\ref\SampleCommerce.Databases.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Models.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.CopyComplete
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\ref\SampleCommerce.Databases.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.genruntimeconfig.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.AssemblyReference.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.AssemblyInfoInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.AssemblyInfo.cs
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.CoreCompileInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.deps.json
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.runtimeconfig.json
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Databases.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\bin\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.csproj.CopyComplete
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\refint\SampleCommerce.Databases.dll
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.pdb
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\SampleCommerce.Databases.genruntimeconfig.cache
+G:\ASP.net Class\New folder\Day 16\SampleCommerce.Databases\obj\Debug\net6.0\ref\SampleCommerce.Databases.dll

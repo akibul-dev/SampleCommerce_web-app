@@ -1,0 +1,44 @@
+﻿@model CustomerDetailsVM
+
+
+
+<div class="card">
+    <div class="card-header">
+        @Model.Name
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">Customer Details:</h5>
+        <p>Name: @Model.Name </p>
+        <p>Phone: @Model.PhoneNo </p>
+        <p>Address: @Model.Address </p>
+    </div>
+</div>
+
+@if (Model.Products != null && Model.Products.Any())
+{
+    <h2>Products of Customer</h2>
+    int slNo = 0;
+
+    <table class="table table-striped table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Sl</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+                <tr>
+                    <td>@(++slNo)</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+
+}

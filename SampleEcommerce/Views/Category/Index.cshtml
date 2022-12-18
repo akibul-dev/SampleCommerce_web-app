@@ -1,0 +1,43 @@
+﻿@model IEnumerable<CategoryListItemVM>
+
+
+<h2>Category Index</h2>
+<a class="btn btn-primary" asp-action="Create" >New Category</a>
+
+<table class="table table-bordered table-hover table-striped" id="myTable">
+    <thead>
+        <tr>
+            <th>Sl</th>
+            <th>Name</th>
+            <th>Code</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int slNo = 0; 
+        }
+        @foreach(var category in Model)
+        {
+            <tr>
+                <td>@(++slNo)</td>
+                <td>@category.Name</td>
+                <td>@category.Code</td>
+                <td>@category.Description</td>               
+                <td>
+                    <a asp-action="Edit" asp-route-id="@category.Id"  >Edit</a> |
+                    @*<a href="/customer/edit/@customer.Id">Edit</a>*@
+                    <a asp-action="Details" asp-route-id="@category.Id">View</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+@section Scripts{
+    <script src="~/js/Category/categoryJs.js"> </script>
+
+}

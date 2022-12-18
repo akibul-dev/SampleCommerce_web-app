@@ -1,0 +1,425 @@
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\appsettings.Development.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\appsettings.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.staticwebassets.runtime.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.exe
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.runtimeconfig.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\ref\SampleEcommerce.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\staticwebassets.build.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\staticwebassets.development.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\bundle\SampleEcommerce.styles.css
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\projectbundle\SampleEcommerce.bundle.scp.css
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\ref\SampleEcommerce.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.genruntimeconfig.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Humanizer.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CopyComplete
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\appsettings.Development.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\appsettings.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.staticwebassets.runtime.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.exe
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.deps.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.runtimeconfig.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.pdb
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Humanizer.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.AssemblyReference.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfoInputs.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfo.cs
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CoreCompileInputs.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.MvcApplicationPartsAssemblyInfo.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cs
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\staticwebassets.build.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\staticwebassets.development.json
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\bundle\SampleEcommerce.styles.css
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\scopedcss\projectbundle\SampleEcommerce.bundle.scp.css
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CopyComplete
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\refint\SampleEcommerce.dll
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.pdb
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.genruntimeconfig.cache
+D:\SM\full-stack-batch-09\Day11\SampleEcommerce\SampleEcommerce\obj\Debug\net6.0\ref\SampleEcommerce.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Databases.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Repositories.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Models.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Repositories.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Databases.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.Abstractions.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\AutoMapper.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SampleEcommerce\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.AssemblyReference.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfoInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.AssemblyInfo.cs
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CoreCompileInputs.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.MvcApplicationPartsAssemblyInfo.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.RazorAssemblyInfo.cs
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\appsettings.Development.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\appsettings.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.staticwebassets.runtime.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.exe
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.deps.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.runtimeconfig.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleEcommerce.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\AutoMapper.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Humanizer.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Newtonsoft.Json.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Databases.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.DependencyResolve.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Repositories.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.DependencyResolve.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Repositories.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Databases.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SampleCommerce.Services.Abstractions.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.SampleEcommerce.Microsoft.AspNetCore.StaticWebAssets.props
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.build.SampleEcommerce.props
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SampleEcommerce.props
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SampleEcommerce.props
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets.pack.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets.build.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\staticwebassets.development.json
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\scopedcss\bundle\SampleEcommerce.styles.css
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\scopedcss\projectbundle\SampleEcommerce.bundle.scp.css
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.csproj.CopyComplete
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\refint\SampleEcommerce.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.pdb
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\SampleEcommerce.genruntimeconfig.cache
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\obj\Debug\net6.0\ref\SampleEcommerce.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\MessagePack.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\MessagePack.Annotations.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Build.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Common.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Configuration.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Frameworks.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.LibraryModel.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Packaging.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.ProjectModel.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Protocol.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\NuGet.Versioning.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Composition.Convention.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Composition.Hosting.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Composition.Runtime.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Composition.TypedParts.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\ASP.net Class\New folder\Day 16\SampleEcommerce\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll

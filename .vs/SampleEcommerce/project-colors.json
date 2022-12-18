@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "70192324-566c-4fde-85a7-a4bd3aa754ee": {
+      "ProjectGuid": "70192324-566c-4fde-85a7-a4bd3aa754ee",
+      "DisplayName": "SampleEcommerce",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "2e74a0fc-196a-4ca4-a0c9-e6d953059016": {
+      "ProjectGuid": "2e74a0fc-196a-4ca4-a0c9-e6d953059016",
+      "DisplayName": "SampleEFCore",
+      "ColorIndex": 1
+    },
+    "571d5083-02cd-40a4-bc64-5c5f5773c5d2": {
+      "ProjectGuid": "571d5083-02cd-40a4-bc64-5c5f5773c5d2",
+      "DisplayName": "SampleCommerce.Models",
+      "ColorIndex": 2
+    },
+    "5c3c1857-e74b-46f2-9619-64f0ff70c94d": {
+      "ProjectGuid": "5c3c1857-e74b-46f2-9619-64f0ff70c94d",
+      "DisplayName": "SampleCommerce.Databases",
+      "ColorIndex": 3
+    },
+    "7e735753-33f3-44a6-bb2b-2e2ea2c86e9c": {
+      "ProjectGuid": "7e735753-33f3-44a6-bb2b-2e2ea2c86e9c",
+      "DisplayName": "SampleCommerce.Repositories",
+      "ColorIndex": 4
+    },
+    "ee49eaaa-95e2-418c-a5b9-44aa6f3a9442": {
+      "ProjectGuid": "ee49eaaa-95e2-418c-a5b9-44aa6f3a9442",
+      "DisplayName": "SampleCommerce.Services",
+      "ColorIndex": 5
+    },
+    "5152e90a-1759-45a8-a18e-8f73825bccef": {
+      "ProjectGuid": "5152e90a-1759-45a8-a18e-8f73825bccef",
+      "DisplayName": "SMECommerce.Repositories.Abstractions",
+      "ColorIndex": 6
+    },
+    "69dec0c0-2d9d-42c6-b3bb-9593471dc2e4": {
+      "ProjectGuid": "69dec0c0-2d9d-42c6-b3bb-9593471dc2e4",
+      "DisplayName": "SampleCommerce.Services.Abstractions",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

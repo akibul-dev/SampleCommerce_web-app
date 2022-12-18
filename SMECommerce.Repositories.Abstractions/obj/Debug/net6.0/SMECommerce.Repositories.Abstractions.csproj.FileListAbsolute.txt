@@ -1,0 +1,30 @@
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.deps.json
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\ref\SMECommerce.Repositories.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SampleCommerce.Models.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SampleCommerce.Models.pdb
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\ref\SMECommerce.Repositories.Abstractions.dll
+D:\PROFESSIONAL\SHIRAJULMAMUN\Training\Full Stack ASP.NET Core B9\SampleEcommerce\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.AssemblyReference.cache
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.AssemblyInfoInputs.cache
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.AssemblyInfo.cs
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.CoreCompileInputs.cache
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.deps.json
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SampleCommerce.Models.dll
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\bin\Debug\net6.0\SampleCommerce.Models.pdb
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.csproj.CopyComplete
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\refint\SMECommerce.Repositories.Abstractions.dll
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\SMECommerce.Repositories.Abstractions.pdb
+G:\ASP.net Class\New folder\Day 16\SMECommerce.Repositories.Abstractions\obj\Debug\net6.0\ref\SMECommerce.Repositories.Abstractions.dll

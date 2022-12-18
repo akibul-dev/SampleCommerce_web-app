@@ -1,0 +1,543 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleEcommerce\\SampleEcommerce.csproj": {}
+  },
+  "projects": {
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj",
+        "projectName": "SampleCommerce.Databases",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\SampleCommerce.DependencyResolve.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\SampleCommerce.DependencyResolve.csproj",
+        "projectName": "SampleCommerce.DependencyResolve",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\SampleCommerce.DependencyResolve.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj",
+        "projectName": "SampleCommerce.Models",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj",
+        "projectName": "SampleCommerce.Repositories",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Databases\\SampleCommerce.Databases.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\SampleCommerce.Services.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\SampleCommerce.Services.Abstractions.csproj",
+        "projectName": "SampleCommerce.Services.Abstractions",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\SampleCommerce.Services.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj",
+        "projectName": "SampleCommerce.Services",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\SampleCommerce.Services.Abstractions.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services.Abstractions\\SampleCommerce.Services.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleEcommerce\\SampleEcommerce.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleEcommerce\\SampleEcommerce.csproj",
+        "projectName": "SampleEcommerce",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleEcommerce\\SampleEcommerce.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleEcommerce\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\SampleCommerce.DependencyResolve.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.DependencyResolve\\SampleCommerce.DependencyResolve.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Repositories\\SampleCommerce.Repositories.csproj"
+              },
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Services\\SampleCommerce.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+        "projectName": "SMECommerce.Repositories.Abstractions",
+        "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\SMECommerce.Repositories.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ParthoPrime\\.nuget\\packages\\",
+        "outputPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SMECommerce.Repositories.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ParthoPrime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj": {
+                "projectPath": "G:\\ASP.net Class\\New folder\\SampleCommerce\\SampleCommerce.Models\\SampleCommerce.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

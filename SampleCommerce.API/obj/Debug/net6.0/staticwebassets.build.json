@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bfigI/0Bo38ZWFaWvy9BQl7CjnWkeYGP+i+5Jl5T8V4=",
+  "Source": "SampleCommerce.API",
+  "BasePath": "_content/SampleCommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
